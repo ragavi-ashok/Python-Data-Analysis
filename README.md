@@ -4,7 +4,6 @@
 - 📈 Exploratory Data Analysis (EDA) with real datasets
 - 🔍 Machine Learning with Scikit-learn, TensorFlow, and PyTorch
 - 🧠 Interesting patterns and insights from data
-- 🎯 Problem-solving and projects based on real-world datasets
 ## Challenge Breakdown
 Each day, I’ll work on a new Python project or explore a new data-related topic
 ## How to Follow Along
