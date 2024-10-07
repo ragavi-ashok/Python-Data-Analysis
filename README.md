@@ -1,7 +1,7 @@
 # 100 Days of Python Data Analysis
 ## What to Expect
 - 📊 Data analysis techniques using Pandas, NumPy, and Matplotlib
-- 📈 Exploratory Data Analysis (EDA) with real datasets
+- 📈 Exploratory Data Analysis (EDA)
 - 🔍 Machine Learning with Scikit-learn, TensorFlow, and PyTorch
 - 🧠 Interesting patterns and insights from data
 ## Challenge Breakdown
