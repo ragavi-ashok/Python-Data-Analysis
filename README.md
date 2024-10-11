@@ -10,7 +10,7 @@ Each day, I’ll work on a new Python project or explore a new data-related topi
 Day 1 : [Analyzing Sales Data](https://github.com/ragavi-ashok/100-Days-of-Python-Data-Analysis/blob/main/100-Days-of-Python-Data-Analysis/day-001/day001.ipynb)  
 Day 2 : [Department Top Three Salaries](https://github.com/ragavi-ashok/100-Days-of-Python-Data-Analysis/blob/main/100-Days-of-Python-Data-Analysis/day-002/day002.ipynb)  
 Day 3 : [Bar chart comparing two years' sales](https://github.com/ragavi-ashok/100-Days-of-Python-Data-Analysis/blob/main/100-Days-of-Python-Data-Analysis/day-003/day003.ipynb)  
-Day 4 : [Line chart for Website visitors tracking](https://github.com/ragavi-ashok/100-Days-of-Python-Data-Analysis/blob/main/100-Days-of-Python-Data-Analysis/day-004/day004.ipynb)
+Day 4 : [Line chart for Website visitors tracking](https://github.com/ragavi-ashok/100-Days-of-Python-Data-Analysis/blob/main/100-Days-of-Python-Data-Analysis/day-004/day004.ipynb)  
 Day 5 : [Linear fit Algorithm](https://github.com/ragavi-ashok/100-Days-of-Python-Data-Analysis/blob/main/100-Days-of-Python-Data-Analysis/day-005/day005.ipynb)
 
 ## How to Follow Along
