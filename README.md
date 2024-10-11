@@ -11,5 +11,7 @@ Day 1 : [Analyzing Sales Data](https://github.com/ragavi-ashok/100-Days-of-Pytho
 Day 2 : [Department Top Three Salaries](https://github.com/ragavi-ashok/100-Days-of-Python-Data-Analysis/blob/main/100-Days-of-Python-Data-Analysis/day-002/day002.ipynb)  
 Day 3 : [Bar chart comparing two years' sales](https://github.com/ragavi-ashok/100-Days-of-Python-Data-Analysis/blob/main/100-Days-of-Python-Data-Analysis/day-003/day003.ipynb)  
 Day 4 : [Line chart for Website visitors tracking](https://github.com/ragavi-ashok/100-Days-of-Python-Data-Analysis/blob/main/100-Days-of-Python-Data-Analysis/day-004/day004.ipynb)
+Day 5 : [Linear fit Algorithm](https://github.com/ragavi-ashok/100-Days-of-Python-Data-Analysis/blob/main/100-Days-of-Python-Data-Analysis/day-005/day005.ipynb)
+
 ## How to Follow Along
 Feel free to explore the code and projects in this repository. Contributions and suggestions are always welcome!
