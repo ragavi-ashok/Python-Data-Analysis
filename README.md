@@ -12,7 +12,7 @@ Day 2 : [Department Top Three Salaries](https://github.com/ragavi-ashok/100-Days
 Day 3 : [Bar chart comparing two years' sales](https://github.com/ragavi-ashok/100-Days-of-Python-Data-Analysis/blob/main/100-Days-of-Python-Data-Analysis/day-003/day003.ipynb)  
 Day 4 : [Line chart for Website visitors tracking](https://github.com/ragavi-ashok/100-Days-of-Python-Data-Analysis/blob/main/100-Days-of-Python-Data-Analysis/day-004/day004.ipynb)  
 Day 5 : [Linear fit Algorithm](https://github.com/ragavi-ashok/100-Days-of-Python-Data-Analysis/blob/main/100-Days-of-Python-Data-Analysis/day-005/day005.ipynb)  
-Day 6 : [Plot regression line for experience vs salary](https://github.com/ragavi-ashok/100-Days-of-Python-Data-Analysis/blob/main/100-Days-of-Python-Data-Analysis/day-006/day006.ipynb)
+Day 6 : [Plot regression line for experience vs salary](https://github.com/ragavi-ashok/100-Days-of-Python-Data-Analysis/blob/main/100-Days-of-Python-Data-Analysis/day-006/day006.ipynb)  
 Day 6 : [Manually computing and visualizing the coefficients for OLS, Ridge, Lasso, and Elastic Net regression](https://github.com/ragavi-ashok/100-Days-of-Python-Data-Analysis/blob/main/100-Days-of-Python-Data-Analysis/day-007/day007.ipynb)
 
 ## How to Follow Along
